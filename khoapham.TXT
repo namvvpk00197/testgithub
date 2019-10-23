@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Vuong Van Nam
-0356610741
-=======
->>>>>>> parent of 1d82c8d... add khoa pham
+Nam Vuan Vung
